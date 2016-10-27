@@ -4,6 +4,8 @@ Stock boot.img of Cloudfone Excite Prime (MT6592M)
 ## Important!
 Create a folder named boot_
 
+Change zImage location on config.ini (mine is C:\Users\Xceon\Desktop\boot\boot_\kernel\zImage) to your zImage location or else this wont boot or errors compiling.
+
 Use [AndImgTool](https://drive.google.com/file/d/0B5DM6ZSz3dh-SWE5UG5HSkFxajQ/view) for recompiling.
 
 
