@@ -1,4 +1,4 @@
-## Excite-Prime-Decompiled-Boot
+## Excite Prime Decompiled Stock Boot Image
 Stock boot.img of Cloudfone Excite Prime (MT6592M)
 
 For my personal use only.
